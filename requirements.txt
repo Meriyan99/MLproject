@@ -1,6 +1,7 @@
 pandas
 numpy
 seaborn
+matplotlib
 
 # this will automatically trigger the setup.py file
 -e .
