@@ -2,6 +2,7 @@ pandas
 numpy
 seaborn
 matplotlib
+dill
 
 # this will automatically trigger the setup.py file
 -e .
