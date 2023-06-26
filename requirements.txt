@@ -3,6 +3,7 @@ numpy
 seaborn
 matplotlib
 dill
+Flask
 
 # this will automatically trigger the setup.py file
 -e .
